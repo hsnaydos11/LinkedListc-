@@ -1,0 +1,18 @@
+﻿  LinkedListConsole.cpp
+C:\Users\Hasan\Desktop\Son Kısım\LinkedListAPPC++\LinkedListAPP\Header.h(52,12): warning C4099: 'Node': type name first seen using 'class' now seen using 'struct'
+C:\Users\Hasan\Desktop\Son Kısım\LinkedListAPPC++\LinkedListAPP\Header.h(18): message : see declaration of 'Node'
+C:\Users\Hasan\Desktop\Son Kısım\LinkedListAPPC++\LinkedListAPP\Header.h(52,45): warning C4099: 'Node': type name first seen using 'class' now seen using 'struct'
+C:\Users\Hasan\Desktop\Son Kısım\LinkedListAPPC++\LinkedListAPP\Header.h(52): message : see declaration of 'Node'
+C:\Users\Hasan\Desktop\Son Kısım\LinkedListAPPC++\LinkedListAPP\Header.h(53,12): warning C4099: 'Node': type name first seen using 'class' now seen using 'struct'
+C:\Users\Hasan\Desktop\Son Kısım\LinkedListAPPC++\LinkedListAPP\Header.h(52): message : see declaration of 'Node'
+C:\Users\Hasan\Desktop\Son Kısım\LinkedListAPPC++\LinkedListAPP\Header.h(53,43): warning C4099: 'Node': type name first seen using 'class' now seen using 'struct'
+C:\Users\Hasan\Desktop\Son Kısım\LinkedListAPPC++\LinkedListAPP\Header.h(53): message : see declaration of 'Node'
+C:\Users\Hasan\Desktop\Son Kısım\LinkedListAPPC++\LinkedListAPP\Header.h(54,12): warning C4099: 'Node': type name first seen using 'class' now seen using 'struct'
+C:\Users\Hasan\Desktop\Son Kısım\LinkedListAPPC++\LinkedListAPP\Header.h(53): message : see declaration of 'Node'
+C:\Users\Hasan\Desktop\Son Kısım\LinkedListAPPC++\LinkedListAPP\Header.h(54,45): warning C4099: 'Node': type name first seen using 'class' now seen using 'struct'
+C:\Users\Hasan\Desktop\Son Kısım\LinkedListAPPC++\LinkedListAPP\Header.h(54): message : see declaration of 'Node'
+C:\Users\Hasan\Desktop\Son Kısım\LinkedListAPPC++\LinkedListAPP\Header.h(93,27): warning C4099: 'Node': type name first seen using 'class' now seen using 'struct'
+C:\Users\Hasan\Desktop\Son Kısım\LinkedListAPPC++\LinkedListAPP\Header.h(54): message : see declaration of 'Node'
+C:\Users\Hasan\Desktop\Son Kısım\LinkedListAPPC++\LinkedListAPP\Header.h(95,25): warning C4099: 'Node': type name first seen using 'class' now seen using 'struct'
+C:\Users\Hasan\Desktop\Son Kısım\LinkedListAPPC++\LinkedListAPP\Header.h(54): message : see declaration of 'Node'
+  LinkedListConsole.vcxproj -> C:\Users\Hasan\Desktop\Son Kısım\LinkedListAPPC++\Debug\LinkedListConsole.exe
